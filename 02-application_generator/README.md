@@ -18,7 +18,7 @@ Display the command options with the -h option:
 $ express -h
 ```
 <br>
-The following creates an Express app named ***myapp***. The app will be created in a folder named ***myapp*** in the current working directory and the view engine will be set to ***Pug***:
+The following creates an Express app named **myapp**. The app will be created in a folder named **myapp** in the current working directory and the view engine will be set to **Pug**:
 ```
 $ express --view=pug myapp
 ```
