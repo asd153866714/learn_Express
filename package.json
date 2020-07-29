@@ -1,0 +1,22 @@
+{
+  "name": "learn_express",
+  "version": "1.0.0",
+  "description": "learning note for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asd153866714/learn_Express.git"
+  },
+  "author": "hcxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asd153866714/learn_Express/issues"
+  },
+  "homepage": "https://github.com/asd153866714/learn_Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
