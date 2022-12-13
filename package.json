@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/asd153866714/learn_Express#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
